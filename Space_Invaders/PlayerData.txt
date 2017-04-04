@@ -1,0 +1,8 @@
+Martin 130
+Gosho 320
+Stefan 350
+Mihail 360
+Simo 370
+Pesho 490
+Yan 650
+Ilian 900
